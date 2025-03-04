@@ -22,7 +22,7 @@ I am a **Quality Assurance (QA)** professional with **3.5 years** of experience 
 ![Git Badge](https://img.shields.io/badge/Git-%40-F1502F?logo=git&style=flat)
 
 - **Manual Testing** | **Test Automation** | **Regression Testing**
-- **Cypress** | **Playwright** 
+- **Cypress** | **Playwright** | **Katalon**
 - **API Testing** | **RESTful APIs** | **Web Testing** | **Mobile Testing** | **SQL**
 - **Agile** | **Scrum** | **Git**
 - **ClickUp** | **Coda**
